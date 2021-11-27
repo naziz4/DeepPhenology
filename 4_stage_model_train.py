@@ -11,6 +11,7 @@ Created on Wed Feb 24 21:44:59 2021
 Created on Wed Feb 10 11:44:57 2021
 
 @author: Naeem
+# Code modified from: Pytorch. 2021. Transfer learning for computer vision tutorial. https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html #
 """
 
 

@@ -11,6 +11,7 @@ Created on Wed Feb 24 21:38:40 2021
 Created on Mon Sep 28 17:21:24 2020
 
 @author: Naeem
+# Code modified from: Pytorch. 2021. Transfer learning for computer vision tutorial. https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html #
 """
 
 from __future__ import print_function, division

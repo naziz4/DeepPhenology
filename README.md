@@ -6,3 +6,18 @@ Community science image libraries offer a massive, but largely untapped, source 
 Models were trained on two systems: 
 Personal Laptop: Ryzen 5 3500U
 Desktop: Ryzen 5 3600, NVIDIA RTX 3070
+
+Training parameters:
+Batch size: 4
+Learning rate: 0.01
+Optimizer: SGD
+Loss: Cross entropy loss
+
+Packages used
+
+Pytorch: https://github.com/pytorch/pytorch
+NumPy: https://github.com/numpy/numpy
+Pandas: https://github.com/pandas-dev/pandas
+Scikit-learn: https://github.com/scikit-learn/scikit-learn
+Pillow: https://github.com/python-pillow/Pillow
+Matplotlib: https://github.com/matplotlib/matplotlib
